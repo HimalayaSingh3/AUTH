@@ -1,0 +1,24 @@
+.login{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    border-radius: 10px;
+}
+.register{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    
+    border-radius: 10px;
+}
+.protected{
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
